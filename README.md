@@ -1,0 +1,2 @@
+# omikuji
+my first swift
